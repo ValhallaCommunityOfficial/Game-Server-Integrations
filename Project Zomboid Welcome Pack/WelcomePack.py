@@ -3,6 +3,8 @@ import time
 import glob
 from zomboid_rcon import ZomboidRCON
 
+# Made by KodeMan - https://www.thevalhallacommunity.com - Discord.gg/valhallacommunity
+
 # Define your server RCON connection details
 server_ip = '' # Adjust as needed
 server_port = 25574  # Adjust as needed
