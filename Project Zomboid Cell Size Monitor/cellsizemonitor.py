@@ -5,6 +5,8 @@ import requests
 import time
 from collections import defaultdict
 
+# Made by KodeMan - https://www.thevalhallacommunity.com - Discord.gg/valhallacommunity
+
 def monitor_cell_sizes(save_folder, cache_file="cell_size_cache.json", log_file="ENTER_PATH_FOR_NEW_LOG_FILE_CREATION", webhook_url="ENTER_YOUR_DISCORD_WEBHOOK_HERE"): # EDIT THIS AS NEEDED
     cell_cache = defaultdict(int)
     chunk_cache = {}
