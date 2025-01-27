@@ -1,0 +1,1 @@
+This will give players an hourly stipend of whatever currency you use with some editing. Look over the code and edit to your needs. No support is offered for this, you must know how to use python.
